@@ -1,0 +1,18 @@
+{
+  "sk_test_1234567890abcdef": {
+    "owner": "frontend-web",
+    "active": true,
+    "plan": "free",
+    "usage_count": 0,
+    "monthly_limit": 100,
+    "blocked": false
+  },
+  "sk_live_abcdef1234567890": {
+    "owner": "cliente_empresa",
+    "active": true,
+    "plan": "pro",
+    "usage_count": 42,
+    "monthly_limit": 10000,
+    "blocked": false
+  }
+}
